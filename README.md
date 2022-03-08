@@ -43,4 +43,8 @@ AutoClose = Server.exe를 종료하면 EscapeFromTarkov.exe도 같이 종료할�
 
 ---
 
+[Untitled-Launcher 다운로드](https://github.com/Untitled0828/SPT-Launcher/releases, "리릴즈 버전 다운로드")
+
+---
+
 * 해당 프로그램은 Server.exe의 출력 값을 가져와 다시 출력하는 과정에서 [Ansi Escape Code#Color][AnsiEscapeCode] 표현을 위해 [kernel32.dll][kernel32] 를 사용합니다.
