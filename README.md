@@ -43,7 +43,7 @@ AutoClose = Server.exe를 종료하면 EscapeFromTarkov.exe도 같이 종료할�
 
 ---
 
-[Untitled-Launcher 다운로드](https://github.com/Untitled0828/SPT-Launcher/releases, "리릴즈 버전 다운로드")
+[Untitled-Launcher 다운로드](https://github.com/Untitled0828/SPT-Launcher/releases "리릴즈 버전 다운로드")
 
 ---
 
