@@ -6,11 +6,11 @@
 
 [.Net 5.0][.Net5.0] 이 필요합니다.
 
-Server.exe혹은 EscapeFromTarkov.exe가 관리자 권한으로 실행옵션이 되어있다면. 해당 프로그램도 관리자 권한으로 실행되어야합니다.
-
 ---
 
 ## 주의사항
+
+* Server.exe혹은 EscapeFromTarkov.exe가 관리자 권한으로 실행옵션이 되어있다면. 해당 프로그램도 관리자 권한으로 실행되어야합니다
 
 * 아래와 같은 위치에 프로그램을 넣어두시면 됩니다.
 
@@ -31,6 +31,12 @@ AutoClose = Server.exe를 종료하면 EscapeFromTarkov.exe도 같이 종료할�
 ```
 
 ---
+
+실행경로에서 서버파일을 발견하면 자동으로 실행하며 다른 경로에서 실행시 SPT-Aki 경로를 입력해야됩니다.
+
+그후 미리 생성해둔 프로필을 입력하면 됩니다.
+
+![img0](./img/img0.png)
 
 서버가 준비되면 EscapeFromTarkov.exe를 실행합니다.
 
