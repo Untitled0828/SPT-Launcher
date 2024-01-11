@@ -1,17 +1,16 @@
 [AnsiEscapeCode]: https://en.wikipedia.org/wiki/ANSI_escape_code#Colors "Ansi Escape Code Colors"
 [kernel32]: https://ko.wikipedia.org/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC_%ED%8C%8C%EC%9D%BC#KERNEL32.DLL "kernel32.dll 정보"
+[.Net5.0]: https://dotnet.microsoft.com/ko-kr/download/dotnet/thank-you/runtime-aspnetcore-5.0.17-windows-x64-installer ".Net 5.0 다운로드"
 
-# Untitled-Launcher
+# Untitled-Launcher (Simple Launcher)
 
-.Net 5.0 이 필요합니다.
+[.Net 5.0][.Net5.0] 이 필요합니다.
 
 Server.exe혹은 EscapeFromTarkov.exe가 관리자 권한으로 실행옵션이 되어있다면. 해당 프로그램도 관리자 권한으로 실행되어야합니다.
 
 ---
 
 ## 주의사항
-
-* SPT-AKI 의 Server.exe 와 EscapeFromTarkov.exe가 같은 폴더에 있을때만 사용할 수 있습니다.
 
 * 아래와 같은 위치에 프로그램을 넣어두시면 됩니다.
 
@@ -43,7 +42,7 @@ AutoClose = Server.exe를 종료하면 EscapeFromTarkov.exe도 같이 종료할�
 
 ---
 
-[Untitled-Launcher 다운로드](https://github.com/Untitled0828/SPT-Launcher/releases "리릴즈 버전 다운로드")
+[Untitled-Launcher 다운로드](https://github.com/Untitled0828/SPT-Launcher/releases "릴리즈 버전 다운로드")
 
 ---
 
