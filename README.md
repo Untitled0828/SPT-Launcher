@@ -24,12 +24,6 @@ Config
 
 서버가 준비되면 지정한 계정으로 클아이언트를 실행합니다.
 
-
-![img3](./img/vt.png)
-
-[바이러스 토탈](https://www.virustotal.com/gui/file/c28b1060a5839d87423ad1ce0d48037430319b058137452dd6bc34e246d60bbf?nocache=1 "실행 파일 바이러스 토탈 바로가기")
-
-
 ---
 
 [런처 다운로드](https://github.com/Untitled0828/SPT-Launcher/raw/main/file/SimpleLauncher-1.0.0.0.7z "SPT-AKI SimpleLauncher Download")
