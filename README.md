@@ -2,6 +2,8 @@
 
 * Ver - 1.0.0.0
 
+* `24.05.26
+
 ## 프로그램 정보
 
 * Aki.Server와 Aki.Launcher의 기능을 하나의 프로그램만 실행해도 가능하게 만들었습니다.
@@ -16,7 +18,7 @@ Config
 
 ![Config](./img/config.png)
 
-AutoClose: 서버창을 종료할시 클라이언트도 같이 종료시킵니다.
+AutoClose: 서버창을 종료할시 클라이언트를 같이 종료합니다. (기본 값: false)
 
 ---
 
