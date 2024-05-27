@@ -1,6 +1,8 @@
 # Untitled - Simple Launcher
 
-## 프로그램 정보 (ver 1.0.0.0)
+* Ver - 1.0.0.0
+
+## 프로그램 정보
 
 * Aki.Server와 Aki.Launcher의 기능을 하나의 프로그램만 실행해도 가능하게 만들었습니다.
 
@@ -10,9 +12,11 @@
 
 Config
 
-`user\launcher\UntitledConfig.json`
+`SimpleLauncher.json`
 
 ![Config](./img/config.png)
+
+AutoClose: 서버창을 종료할시 클라이언트도 같이 종료시킵니다.
 
 ---
 
@@ -22,7 +26,7 @@ Config
 
 ![img2](./img/server.png)
 
-서버가 준비되면 지정한 계정으로 클아이언트를 실행합니다.
+서버가 준비되면 지정한 계정으로 클라이언트를 실행합니다.
 
 ---
 
