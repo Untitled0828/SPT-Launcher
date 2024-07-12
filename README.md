@@ -1,14 +1,18 @@
 # Untitled - Simple Launcher
 
-* Ver - 1.0.0.0
-
-* `24.05.27
+* Ver - 1.0.1.0
 
 ## 프로그램 정보
 
 * Aki.Server와 Aki.Launcher의 기능을 하나의 프로그램만 실행해도 가능하게 만들었습니다.
 
 * 단 계정을 생성하는 기능은 없기때문에 최초 설치시 Aki.Launcher로 계정을 만들어주셔야 합니다.
+
+### 업데이트 내역 `24.07.12
+
+1. SPT 3.9.0 버전 대응 업데이트
+
+2. 일부 환경에서 한글이 깨지는 문제 수정
 
 ---
 
@@ -32,7 +36,7 @@ AutoClose: 서버창을 종료할시 클라이언트를 같이 종료합니다. 
 
 ---
 
-[런처 다운로드](https://github.com/Untitled0828/SPT-Launcher/raw/main/file/SimpleLauncher-1.0.0.0.7z "SPT-AKI SimpleLauncher Download")
+[런처 다운로드](https://github.com/Untitled0828/SPT-Launcher/raw/main/file/SimpleLauncher-1.0.1.0.7z "SPT-AKI SimpleLauncher Download")
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUntitled0828%2FSPT-Launcher&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
